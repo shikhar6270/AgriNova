@@ -139,6 +139,5 @@ To use the system:
 
 ---
 
-## 📜 License
-
-MIT License — use freely, improve widely, credit always 🙌
+⚠ *Usage Notice:* This project is intended *only for evaluation as part of the HACKEMON event*.  
+Any other use, distribution, or reproduction of this material outside the event will be subject to legal notice.
